@@ -1,0 +1,17 @@
+{
+  "name": "gitlearning",
+  "version": "1.0.0",
+  "description": "git learninng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "salman",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
